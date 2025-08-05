@@ -1,0 +1,15 @@
+{
+  "title": "Rounding edge case",
+  "allocations": [
+    {
+      "id": "C1",
+      "assignedDiscount": 2,
+      "justification": "Your performance and target achievement stood above your peers. (capped)"
+    },
+    {
+      "id": "C2",
+      "assignedDiscount": 2,
+      "justification": "Great performance and good target achievement helped you stand out. (capped)"
+    }
+  ]
+}

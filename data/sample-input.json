@@ -1,0 +1,98 @@
+[
+
+  {
+    "title": "Sample Input",
+    
+  "siteKitty": 10000, 
+  "salesAgents": [ 
+    { 
+      "id": "A1", 
+      "performanceScore": 90, 
+      "seniorityMonths": 18, 
+      "targetAchievedPercent": 85, 
+      "activeClients": 12 
+    }, 
+    { 
+      "id": "A2", 
+      "performanceScore": 70, 
+      "seniorityMonths": 6, 
+      "targetAchievedPercent": 60, 
+      "activeClients": 8 
+    } 
+  ] 
+  },
+  {
+    "title": "Normal case",
+    "siteKitty": 10000,
+    "salesAgents": [
+      {
+        "id": "A1",
+        "performanceScore": 90,
+        "seniorityMonths": 24,
+        "targetAchievedPercent": 95,
+        "activeClients": 10
+      },
+      {
+        "id": "A2",
+        "performanceScore": 75,
+        "seniorityMonths": 12,
+        "targetAchievedPercent": 80,
+        "activeClients": 8
+      },
+      {
+        "id": "A3",
+        "performanceScore": 60,
+        "seniorityMonths": 6,
+        "targetAchievedPercent": 60,
+        "activeClients": 5
+      }
+    ]
+  },
+  {
+    "title": "Identical scores case",
+    "siteKitty": 9000,
+    "salesAgents": [
+      {
+        "id": "B1",
+        "performanceScore": 70,
+        "seniorityMonths": 12,
+        "targetAchievedPercent": 80,
+        "activeClients": 5
+      },
+      {
+        "id": "B2",
+        "performanceScore": 70,
+        "seniorityMonths": 12,
+        "targetAchievedPercent": 80,
+        "activeClients": 5
+      },
+      {
+        "id": "B3",
+        "performanceScore": 70,
+        "seniorityMonths": 12,
+        "targetAchievedPercent": 80,
+        "activeClients": 5
+      }
+    ]
+  },
+  {
+    "title": "Rounding edge case",
+    "siteKitty": 5,
+    "salesAgents": [
+      {
+        "id": "C1",
+        "performanceScore": 95,
+        "seniorityMonths": 30,
+        "targetAchievedPercent": 95,
+        "activeClients": 10
+      },
+      {
+        "id": "C2",
+        "performanceScore": 90,
+        "seniorityMonths": 20,
+        "targetAchievedPercent": 90,
+        "activeClients": 9
+      }
+    ]
+  }
+]

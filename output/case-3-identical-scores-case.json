@@ -1,0 +1,20 @@
+{
+  "title": "Identical scores case",
+  "allocations": [
+    {
+      "id": "B1",
+      "assignedDiscount": 3000,
+      "justification": "Consistently high performance and reliable target achievement performance paid off."
+    },
+    {
+      "id": "B2",
+      "assignedDiscount": 3000,
+      "justification": "Excellent performance and strong target achievement made a solid impact."
+    },
+    {
+      "id": "B3",
+      "assignedDiscount": 3000,
+      "justification": "Your performance and target achievement stood above your peers."
+    }
+  ]
+}
