@@ -2,8 +2,9 @@
 
 A modular, explainable system to fairly allocate a fixed discount budget (kitty) among sales agents based on their performance, seniority, and workload — powered by real-time score evaluation and optional AI-generated justifications.
 
-Built for the [Red Health Take-Home Assignment](https://red.health)
 
+Built for the [Red Health Take-Home Assignment] 
+**By:** Sagar Kumar Yadav — `2022UGCS044`, NIT Jamshedpur
 ---
 
 ## 📌 Features
